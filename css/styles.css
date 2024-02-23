@@ -1,0 +1,17 @@
+/*Fuente para separador de meses en Listing*/
+.tit-mes{
+    text-transform: capitalize;
+    font-family: "Inter", Sans-serif;
+    font-size: 24px;
+    color: #0F172A;
+}
+
+
+.jet-date-range__inputs{
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* .elementor-179 .elementor-element.elementor-element-c0728fc .jet-date-range__inputs > input{
+    width: 200px;
+} */
