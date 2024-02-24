@@ -13,7 +13,7 @@ Go to the Plugins section and click on "Add New."
 Select "Upload Plugin" and choose the downloaded ZIP file.
 Activate the plugin once the installation is complete.
 License:
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. 
 
 Credits:
 Developed by Fabio Montenegro.
@@ -33,7 +33,7 @@ Ve a la sección de Plugins y haz clic en "Añadir Nuevo".
 Selecciona "Subir Plugin" y elige el archivo ZIP descargado.
 Activa el plugin una vez completada la instalación.
 Licencia:
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la Licencia MIT. 
 
 Créditos:
 Desarrollado por Fabio Montenegro.

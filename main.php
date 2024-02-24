@@ -11,7 +11,7 @@
  // Se incluye archivos de funcionalidades
 
 require_once plugin_dir_path(__FILE__) . 'includes/shortcodes.php';
-require_once plugin_dir_path(__FILE__) . 'includes/smart-filter-break-by-month.php';
+require_once plugin_dir_path(__FILE__) . 'includes/functions.php';
 
 function cargar_estilos_personalizados() {
     wp_enqueue_style('estilos-personalizados', plugin_dir_url(__FILE__) . 'css/styles.css');    
